@@ -8,7 +8,9 @@ In this work, we bridge this gap by introducing the Activation Recovery via Spar
 ## 📊 Overall Framework
 Overview of the ARES attack. The method consists of two main stages: (a) the attacker initializes the network with malicious parameters to facilitate information leakage; (b) using gradients returned by the client, the attacker first recovers activations through linear layer leakage and then reconstructs input samples via noisy sparse recovery.
 
-![Overall Framework](image.png)
+<p align="center">
+  <img src="image.png" alt="Overall Framework" width="600"/>
+</p>
 
 ## 🚩 Getting Started
 ### Clone the repository
