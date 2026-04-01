@@ -34,3 +34,7 @@ Run all cells to execute the ARES attack pipeline and visualize reconstructed sa
   year={2026},
   booktitle={2026 IEEE Symposium on Security and Privacy (SP)}
 }
+
+## 🙏 Acknowledgements
+
+We would like to thank **[robbing_the_fed]([https://github.com/username/original-repo](https://github.com/lhfowl/robbing_the_fed?tab=readme-ov-file))** for providing the original codebase, which served as a foundation for our work and allowed us to build ARES on top of it.
