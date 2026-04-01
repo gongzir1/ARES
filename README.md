@@ -9,7 +9,10 @@ In this work, we bridge this gap by introducing the Activation REcovery via Spar
 ```bash
 git clone https://github.com/gongzir1/ARES.git
 cd ARES
-python -m venv ares-env
+conda create -n ares-env python=3.10 -y
+conda activate ares-env
+pip install -r requirements.txt
+```
 
 
 
