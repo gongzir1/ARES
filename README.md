@@ -19,10 +19,15 @@ pip install -r requirements.txt
 ```
 
 ### Run Inversion
-Launch the provided Jupyter notebook to run the CIFAR-10 example: ARES_run_example_cifar10.ipynb
+Launch the provided Jupyter notebook to run the CIFAR-10 example: 
+```bash
+ARES_run_example_cifar10.ipynb
+```
 Run all cells to execute the ARES attack pipeline and visualize reconstructed samples.
 
-📄 Citation 
+## 📄 Citation
+
+```bibtex
 @inproceedings{gong2026ares,
   title={ARES: Activation Recovery via Sparse Inversion in Federated Learning},
   author={Gong, Zirui and Zhang, Leo Yu and Zhang, Yanjun and Vo, Viet and Zhu, Tianqing and Pan, Shirui and Wang, Cong},
