@@ -37,4 +37,4 @@ Run all cells to execute the ARES attack pipeline and visualize reconstructed sa
 ```
 ## 🙏 Acknowledgements
 
-We would like to thank the author of **[robbing_the_fed]([https://github.com/username/original-repo](https://github.com/lhfowl/robbing_the_fed?tab=readme-ov-file](https://github.com/lhfowl/robbing_the_fed?tab=readme-ov-file))** for providing the original codebase, which served as a foundation for our work and allowed us to build ARES on top of it.
+We would like to thank the author of **[robbing_the_fed]([https://github.com/username/original-repo](https://github.com/lhfowl/robbing_the_fed?tab=readme-ov-file](https://github.com/lhfowl/robbing_the_fed?tab=readme-ov-file)** for providing the original codebase, which served as a foundation for our work and allowed us to build ARES on top of it.
