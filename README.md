@@ -1,4 +1,4 @@
-# ARES: Scalable and Practical Gradient Inversion Attack in Federated Learning through Activation Recovery, 
+# ARES: Scalable and Practical Gradient Inversion Attack in Federated Learning through Activation Recovery
 
 
 ## 🚀 Abstract
@@ -18,7 +18,14 @@ conda activate ares-env
 pip install -r requirements.txt
 ```
 
-
-
+### Run Inversion
+Launch the provided Jupyter notebook to run the CIFAR-10 example: ARES_run_example_cifar10.ipynb
+Run all cells to execute the ARES attack pipeline and visualize reconstructed samples.
 
 📄 Citation 
+@inproceedings{gong2026ares,
+  title={ARES: Activation Recovery via Sparse Inversion in Federated Learning},
+  author={Gong, Zirui and Zhang, Leo Yu and Zhang, Yanjun and Vo, Viet and Zhu, Tianqing and Pan, Shirui and Wang, Cong},
+  year={2026},
+  booktitle={2026 IEEE Symposium on Security and Privacy (SP)}
+}
