@@ -37,7 +37,7 @@ Run all cells to execute the ARES attack pipeline and visualize reconstructed sa
 
 ```bibtex
 @inproceedings{gong2026ares,
-  title={ARES: Activation Recovery via Sparse Inversion in Federated Learning},
+  title={ARES: Scalable and Practical Gradient Inversion Attack in Federated Learning through Activation Recovery},
   author={Gong, Zirui and Zhang, Leo Yu and Zhang, Yanjun and Vo, Viet and Zhu, Tianqing and Pan, Shirui and Wang, Cong},
   year={2026},
   booktitle={2026 IEEE Symposium on Security and Privacy (SP)}
